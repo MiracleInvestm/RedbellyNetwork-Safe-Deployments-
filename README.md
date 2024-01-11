@@ -89,6 +89,3 @@ const compatHandler = getCompatibilityFallbackHandlerDeployment()
 
 A list of network information can be found at [chainid.network](https://chainid.network/)
 
-## License
-
-This library is released under MIT.
